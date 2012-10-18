@@ -6,6 +6,8 @@ import static org.springframework.test.web.mock.servlet.result.MockMvcResultMatc
 import static org.springframework.test.web.mock.servlet.setup.MockMvcBuilders.standaloneSetup;
 
 import org.junit.Test;
+//@webcontext
+//@context(file:....)
 
 public class SimpleControllerTests {
 
