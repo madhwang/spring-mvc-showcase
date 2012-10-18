@@ -11,6 +11,9 @@ import org.junit.Test;
 
 public class SimpleControllerTests {
 
+	//private MockMvc mockMvc;
+
+	// this.mockMvc = standalone......
 	@Test
 	public void simple() throws Exception {
 		standaloneSetup(new SimpleController()).build()
